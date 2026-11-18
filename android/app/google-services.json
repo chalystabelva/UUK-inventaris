@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897476883869",
+    "project_id": "lab-inventory-3dc15",
+    "storage_bucket": "lab-inventory-3dc15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897476883869:android:c101ed0a417e12a7a32b74",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiwxtPXRlUeoH1XrpBmoS-FM2Xj5d9d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
